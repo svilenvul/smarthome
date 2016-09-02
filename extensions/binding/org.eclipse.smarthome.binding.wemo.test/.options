@@ -1,0 +1,4 @@
+org.eclipse.osgi/resolver/debug = true
+org.eclipse.osgi/resolver/imports = true
+org.eclipse.osgi/trace/classLoading = true
+org.eclipse.osgi/defaultprofile/logfilename = "C:\system.log"
